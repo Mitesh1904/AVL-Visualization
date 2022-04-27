@@ -10,7 +10,7 @@ class Tree:
         self.AVL = AVL_tree()
         self.GUI = Tk()
         self.GUI.title("AVL Visualization")
-        self.GUI.iconbitmap("ICON.ico")
+        # self.GUI.iconbitmap(PhotoImage(file="ICON.ico"))
         self.Width,self.Height= pyautogui.size()
         self.GUI.geometry(f"{self.Width}x{self.Height}")
         self.change_width=self.Width/4
