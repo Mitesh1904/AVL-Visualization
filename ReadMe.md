@@ -10,8 +10,8 @@ Avl tree visualization in python.
 
 ## video link
 
-https://www.youtube.com/watch?v=MZE8RkLnAuI
-
+https://www.youtube.com/watch?v=hZPfw5lM6qQ
+ 
 ## local setup
 
 1. fork/clone the repo.
