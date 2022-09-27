@@ -2,12 +2,6 @@
 
 Avl tree visualization in python.
 
-## Roll No:
-
-1. 19BCE149 -Mitesh Panchal
-2. 19BCE206 -Chintan Patoliya
-3. 19BCE212 -Zeel Prajapati
-
 ## video link
 
 https://www.youtube.com/watch?v=hZPfw5lM6qQ
